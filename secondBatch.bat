@@ -1,6 +1,5 @@
 @echo
-set daughterName=Ena Kocis Tubic
-echo %daughterName%
-echo Nove komande
-dir
+echo Sa grane
+set myName=Vladimir Kocis Tubic
+echo %myName%
 pause
